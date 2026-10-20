@@ -1,0 +1,6 @@
+{
+  "name": "AIWorkers - AI社員仮想オフィス",
+  "description": "温かみのある仮想オフィスでAI社員が自律的に仕事を進めるデスクトップ向けアプリ「AIWorkers」のGUIプロトタイプ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
